@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Vincent
-- 👀 I’m interested in improving my skills as a developer 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Machine learning and data managment projects
+- 👋 Hi, I’m Vincent
+- 👀 I’m interested in working and prooving my skills as a developer 
+- 🌱 I’m currently on the Python enviroment and AWS (Amazon Web Services)
+- 💞️ I’m looking to collaborate on python automation projects and AWS 
 - 📫 How to reach me vicentek2021@gmail.com
 
 <!---
